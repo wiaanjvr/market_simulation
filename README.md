@@ -1,2 +1,17 @@
 # Basic Financial Market Simulation for a Single Instrument 1.0
-Python notebook for basic market simulation of a financial instrument.
+
+In economics, there is a fundamental principle of __supply and demand__ that explains how prices are determined in markets through the interaction of what people want to buy and sell. In this notebook, we will use this principle to create a simplified model of the market for a single financial instrument. More precisely, this notebook demonstrates a simulation of traders who buy and sell from each other over time.
+
+### __Contents__
+
+- Basic Simulation Model
+- Recap
+- Cleaning Up
+- Fees
+- Initial Trader Wealth
+- Tracking Trader Wealth
+- Interpreting Our Results
+- Varying When a Trader Trades
+- Varying How Many Shares a Trader Trades
+- Refining Price Changes
+- The End (for now)
