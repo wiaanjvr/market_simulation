@@ -15,3 +15,8 @@ In economics, there is a fundamental principle of __supply and demand__ that exp
 - Varying How Many Shares a Trader Trades
 - Refining Price Changes
 - The End (for now)
+
+### __Required libraries__
+Matplotlib:
+- For __conda__ users: `conda install matplotlib`
+- For __pip__ users: `pip install matplotlib`
